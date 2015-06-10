@@ -1,5 +1,8 @@
-Hello world!!
-How are you?
-I am fine.
-123
-1235657896543
+#include<iostream>
+
+using namespace std;
+
+int main(){
+	cout << "Hello World!" << endl;
+	return 0;
+}
